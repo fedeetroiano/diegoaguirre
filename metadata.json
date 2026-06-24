@@ -1,6 +1,0 @@
-{
-  "name": "Diego Aguirre: Cotizaciones Profesionales",
-  "description": "Aplicación minimalista y profesional para realizar cotizaciones de pintura, albañilería y arreglos en general.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
